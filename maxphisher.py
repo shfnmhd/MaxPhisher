@@ -1510,4 +1510,4 @@ if __name__ == '__main__':
     except Exception as e:
         exception_handler(e)
             
-# If this code helped you, consider staring repository. Your stars encourage me a lot!
+
